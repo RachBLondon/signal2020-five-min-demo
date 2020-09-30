@@ -1,4 +1,4 @@
-const express = require('express');// const home = require('./index.html')
+const express = require('express');
 const app = express();
 
 app.use((req, res, next) => {
